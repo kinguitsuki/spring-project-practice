@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.todo.TodoApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-17T16:39:12" hostname="LAPTOP-SQ00MK2C" time="0.038">
+<testsuite name="com.example.todo.TodoApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-27T07:39:26" hostname="LAPTOP-SQ00MK2C" time="0.028">
   <properties/>
-  <testcase name="contextLoads()" classname="com.example.todo.TodoApplicationTests" time="0.038"/>
+  <testcase name="contextLoads()" classname="com.example.todo.TodoApplicationTests" time="0.028"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
